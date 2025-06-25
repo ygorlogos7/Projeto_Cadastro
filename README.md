@@ -33,4 +33,4 @@ Protótipo funcional de sistema CRUD com interface web leve e responsiva
 
 Código organizado seguindo boas práticas de programação
 
-Fácil deploy como app web, ideal para inclusão em portfólio técnico
+Fácil deploy como app web
